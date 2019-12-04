@@ -1,0 +1,621 @@
+1538814604199	geckodriver	INFO	geckodriver 0.20.1
+1538814604219	geckodriver	INFO	Listening on 127.0.0.1:60272
+1538814607384	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KYB\\AppData\\Local\\Temp\\rust_mozprofile.47RMe1m7XiFO"
+Unable to read VR Path Registry from C:\Users\KYB\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\KYB\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\KYB\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\KYB\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\KYB\AppData\Local\openvr\openvrpaths.vrpath
+1538814617044	Marionette	INFO	Listening on port 60280
+1538814617732	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Parent 9772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win[.cc, lPairne 346e
+nt 9[772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6488, Ch[Parent 9772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538884096802	geckodriver	INFO	geckodriver 0.20.1
+1538884096955	geckodriver	INFO	Listening on 127.0.0.1:55130
+1538884100070	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KYB\\AppData\\Local\\Temp\\rust_mozprofile.9h2Kzq41Siw6"
+Unable to read VR Path Registry from C:\Users\KYB\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\KYB\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\KYB\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\KYB\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\KYB\AppData\Local\openvr\openvrpaths.vrpath
+1538884110535	Marionette	INFO	Listening on port 55139
+1538884110676	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7056, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7056, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540041204473	geckodriver	INFO	geckodriver 0.20.1
+1540041204521	geckodriver	INFO	Listening on 127.0.0.1:58866
+1540041207653	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KYB\\AppData\\Local\\Temp\\rust_mozprofile.L5FkHUzTBgdo"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1540041217157	Marionette	INFO	Listening on port 58881
+1540041217192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540041217340	Marionette	DEBUG	[4294967297] Frame script loaded
+1540041217483	Marionette	DEBUG	[4294967297] Frame script registered
+1540041220584	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1540041221874	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1540041223445	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+JavaScript warning: https://coding.imooc.com/static/lib/util/placeholder.js?v=201810191943, line 101: unreachable code after return statement
+JavaScript warning: https://coding.imooc.com/static/lib/backbone/backbone-1.0.0.min.js?v=201810191943, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540041225444	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+[Child 16688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16688, 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540042334384	Marionette	INFO	Stopped listening on port 58881
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+40041558705	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540041559685	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+JavaScript warning: https://coding.imooc.com/static/lib/util/placeholder.js?v=201810191943, line 101: unreachable code after return statement
+JavaScript warning: https://coding.imooc.com/static/lib/backbone/backbone-1.0.0.min.js?v=201810191943, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540041561918	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+[Child 19636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540041574857	Marionette	INFO	Stopped listening on port 59635
+[GPU 168
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540041692718	geckodriver	INFO	geckodriver 0.20.1
+1540041692748	geckodriver	INFO	Listening on 127.0.0.1:59963
+1540041695763	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KYB\\AppData\\Local\\Temp\\rust_mozprofile.zJsD9aQ1tXqp"
+1540041700499	Marionette	INFO	Listening on port 59975
+1540041701017	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540041701064	Marionette	DEBUG	[6442450945] Frame script loaded
+1540041701066	Marionette	DEBUG	[6442450945] Frame script registered
+1540041704109	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540041704933	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540041705483	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+JavaScript warning: https://coding.imooc.com/static/lib/util/placeholder.js?v=201810191943, line 101: unreachable code after return statement
+JavaScript warning: https://coding.imooc.com/static/lib/backbone/backbone-1.0.0.min.js?v=201810191943, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540041707138	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+[Parent 16832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo1540041754905	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KYB\\AppData\\Local\\Temp\\rust_mozprofile.9mvpSz7zPVIT"
+1540041759131	Marionette	INFO	Listening on port 60145
+1540041760150	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540041760209	Marionette	DEBUG	[6442450945] Frame script loaded
+1540041760212	Marionette	DEBUG	[6442450945] Frame script registered
+1540041763251	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540041764027	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540041776284	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+JavaScript warning: https://coding.imooc.com/static/lib/util/placeholder.js?v=201810191943, line 101: unreachable code after return statement
+JavaScript warning: https://coding.imooc.com/static/lib/backbone/backbone-1.0.0.min.js?v=201810191943, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540041777071	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+JavaScript warning: https://coding.imooc.com/static/lib/util/placeholder.js?v=201810191943, line 101: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 10596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Parent 17628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540041873578	Marionette	INFO	Stopped listening on port 60145
+[GPU 13628, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540041878731	geckodriver	INFO	geckodriver 0.20.1
+1540041878763	geckodriver	INFO	Listening on 127.0.0.1:60391
+1540041881799	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KYB\\AppData\\Local\\Temp\\rust_mozprofile.27F9QXAXe3PU"
+1540041885881	Marionette	INFO	Listening on port 60405
+1540041885931	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540041885974	Marionette	DEBUG	[6442450945] Frame script loaded
+1540041885995	Marionette	DEBUG	[6442450945] Frame script registered
+1540041889052	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540041890292	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540041899760	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+JavaScript warning: https://coding.imooc.com/static/lib/util/placeholder.js?v=201810191943, line 101: unreachable code after return statement
+JavaScript warning: https://coding.imooc.com/static/lib/backbone/backbone-1.0.0.min.js?v=201810191943, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540041900544	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+[Parent 16488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 161540041916328	Marionette	INFO	Stopped listening on port 60405
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540042152130	geckodriver	INFO	geckodriver 0.20.1
+1540042152157	geckodriver	INFO	Listening on 127.0.0.1:60998
+1540042155202	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KYB\\AppData\\Local\\Temp\\rust_mozprofile.mNLhAhMEwvWs"
+1540042159504	Marionette	INFO	Listening on port 61011
+1540042160469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540042160517	Marionette	DEBUG	[6442450945] Frame script loaded
+1540042160519	Marionette	DEBUG	[6442450945] Frame script registered
+1540042163558	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540042164449	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540042173710	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+JavaScript warning: https://coding.imooc.com/static/lib/util/placeholder.js?v=201810191943, line 101: unreachable code after return statement
+JavaScript warning: https://coding.imooc.com/static/lib/backbone/backbone-1.0.0.min.js?v=201810191943, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540042174457	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+1540042188183	Marionette	INFO	Stopped listening on port 61011
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540042239451	geckodriver	INFO	geckodriver 0.20.1
+1540042239481	geckodriver	INFO	Listening on 127.0.0.1:61195
+1540042242522	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KYB\\AppData\\Local\\Temp\\rust_mozprofile.nWrBo40JDcE8"
+1540042246541	Marionette	INFO	Listening on port 61205
+1540042246761	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540042246814	Marionette	DEBUG	[6442450945] Frame script loaded
+1540042246824	Marionette	DEBUG	[6442450945] Frame script registered
+1540042249865	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540042251127	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540042251681	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+JavaScript warning: https://coding.imooc.com/static/lib/util/placeholder.js?v=201810191943, line 101: unreachable code after return statement
+JavaScript warning: https://coding.imooc.com/static/lib/backbone/backbone-1.0.0.min.js?v=201810191943, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540042252742	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+[Parent 292, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 292, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line [3C46h
+ild 2260, Chrom[eC_Chihild 13ldThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2260, Chrome_ChildThread] WARNING: [Parent 292, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi1540042329706	Marionette	INFO	Stopped listening on port 61205
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540042637191	geckodriver	INFO	geckodriver 0.20.1
+1540042637219	geckodriver	INFO	Listening on 127.0.0.1:61811
+1540042640299	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KYB\\AppData\\Local\\Temp\\rust_mozprofile.G6iXixEKArbC"
+1540042644754	Marionette	INFO	Listening on port 61819
+1540042645608	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540042645656	Marionette	DEBUG	[6442450945] Frame script loaded
+1540042645658	Marionette	DEBUG	[6442450945] Frame script registered
+1540042648674	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540042649879	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540042650460	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+JavaScript warning: https://coding.imooc.com/static/lib/util/placeholder.js?v=201810191943, line 101: unreachable code after return statement
+JavaScript warning: https://coding.imooc.com/static/lib/backbone/backbone-1.0.0.min.js?v=201810191943, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540042652164	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+[Parent 19448, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19448, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch1540042666908	Marionette	INFO	Stopped listening on port 61819
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540042671335	geckodriver	INFO	geckodriver 0.20.1
+1540042671355	geckodriver	INFO	Listening on 127.0.0.1:61895
+1540042674368	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KYB\\AppData\\Local\\Temp\\rust_mozprofile.d7AWCPhyHxku"
+1540042678547	Marionette	INFO	Listening on port 61903
+1540042678605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540042678655	Marionette	DEBUG	[6442450945] Frame script loaded
+1540042678658	Marionette	DEBUG	[6442450945] Frame script registered
+1540042681703	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540042682705	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540042683317	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+JavaScript warning: https://coding.imooc.com/static/lib/util/placeholder.js?v=201810191943, line 101: unreachable code after return statement
+JavaScript warning: https://coding.imooc.com/static/lib/backbone/backbone-1.0.0.min.js?v=201810191943, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540042685011	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+1540043087066	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1540043087067	addons.xpi	ERROR	Failed to download system add-on telemetry-coverage-bug1487578@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1540043087069	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+JavaScript warning: https://coding.imooc.com/static/lib/util/placeholder.js?v=201810191943, line 101: unreachable code after return statement
+console.error: "_refreshProcess of computed view cancelled"
+console.error: "_refreshProcess of computed view cancelled"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransa1540043459887	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KYB\\AppData\\Local\\Temp\\rust_mozprofile.QC23waqBM57K"
+1540043463838	Marionette	INFO	Listening on port 62108
+1540043464155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540043464200	Marionette	DEBUG	[6442450945] Frame script loaded
+1540043464203	Marionette	DEBUG	[6442450945] Frame script registered
+1540043467239	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540043468116	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540043477378	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+JavaScript warning: https://coding.imooc.com/static/lib/util/placeholder.js?v=201810191943, line 101: unreachable code after return statement
+JavaScript warning: https://coding.imooc.com/static/lib/backbone/backbone-1.0.0.min.js?v=201810191943, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540043478709	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+[Child 18936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12268, Chrome_ChildThread] WARNING1540043496078	Marionette	INFO	Stopped listening on port 62108
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rned false (indicating failure)
+
+[Child 17032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/[cChromium/src/chrome/common/ipc_channel_whiin.cc, ld 20320, Chrome_ChildThread] WARNING: pipe erroline 346r: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win
+.cc, line 346[
+Child 17032, C[Child 20320,[Parent 5824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20052, Chrome_ChildThread] W1540043459775	Marionette	INFO	Stopped listening on port 61903
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540043498242	geckodriver	INFO	geckodriver 0.20.1
+1540043498268	geckodriver	INFO	Listening on 127.0.0.1:62169
+1540043501324	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KYB\\AppData\\Local\\Temp\\rust_mozprofile.v7VMUK75Y02q"
+1540043505464	Marionette	INFO	Listening on port 62178
+1540043505527	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540043505581	Marionette	DEBUG	[6442450945] Frame script loaded
+1540043505668	Marionette	DEBUG	[6442450945] Frame script registered
+1540043508726	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540043509665	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540043510169	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+JavaScript warning: https://coding.imooc.com/static/lib/util/placeholder.js?v=201810191943, line 101: unreachable code after return statement
+JavaScript warning: https://coding.imooc.com/static/lib/backbone/backbone-1.0.0.min.js?v=201810191943, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540043511442	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+[Child 12876, Chrome_ChildThread] WARNING: pipe error: 10[9C:h ild 14288, Chrome_ChildThread] WARNING:file z:/build/build/s rpci/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346p
+e error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 14288, Chrome_Ch[Parent 19324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch1540043533747	Marionette	INFO	Stopped listening on port 62178
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540043639885	geckodriver	INFO	geckodriver 0.20.1
+1540043639915	geckodriver	INFO	Listening on 127.0.0.1:62365
+1540043642937	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KYB\\AppData\\Local\\Temp\\rust_mozprofile.xhAYgTGKB5dR"
+1540043647309	Marionette	INFO	Listening on port 62374
+1540043648216	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540043648251	Marionette	DEBUG	[6442450945] Frame script loaded
+1540043648254	Marionette	DEBUG	[6442450945] Frame script registered
+1540043651295	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540043652463	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540043661699	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+JavaScript warning: https://coding.imooc.com/static/lib/util/placeholder.js?v=201810191943, line 101: unreachable code after return statement
+JavaScript warning: https://coding.imooc.com/static/lib/backbone/backbone-1.0.0.min.js?v=201810191943, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540043662398	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+[Parent 9296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 9296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1540043666235	Marionette	INFO	Stopped listening on port 62374
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540043745311	geckodriver	INFO	geckodriver 0.20.1
+1540043745339	geckodriver	INFO	Listening on 127.0.0.1:62476
+1540043748398	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KYB\\AppData\\Local\\Temp\\rust_mozprofile.ZqFbry693ttb"
+1540043752646	Marionette	INFO	Listening on port 62488
+1540043753666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540043753729	Marionette	DEBUG	[6442450945] Frame script loaded
+1540043753732	Marionette	DEBUG	[6442450945] Frame script registered
+1540043756756	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540043757617	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540043766867	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+JavaScript warning: https://coding.imooc.com/static/lib/util/placeholder.js?v=201810191943, line 101: unreachable code after return statement
+JavaScript warning: https://coding.imooc.com/static/lib/backbone/backbone-1.0.0.min.js?v=201810191943, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540043767703	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+[Parent 10212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18000, Chrome_ChildThread] WARNING: pipe error: 232: file z:/[Child 10884, Chrome_ChildThread] WARNINbuild/build/src/ipc/chromium/src/chromGe:/ common/pipc_channel_win.cc, line 513i
+pe error: 10[9C:hild 18000, Chrome_ChildThread] WARNING: pipe error: 232: f iflile ze:/build/build/s z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+rc/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[Child 18000, Chrome_ChildThread] WARNING: pipe erro
+r: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[Parent 10212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1540043855193	Marionette	INFO	Stopped listening on port 62488
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540043895001	geckodriver	INFO	geckodriver 0.20.1
+1540043895021	geckodriver	INFO	Listening on 127.0.0.1:62646
+1540043898120	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KYB\\AppData\\Local\\Temp\\rust_mozprofile.7Y8ycmwzLovN"
+1540043902137	Marionette	INFO	Listening on port 62658
+1540043902264	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540043902324	Marionette	DEBUG	[6442450945] Frame script loaded
+1540043902403	Marionette	DEBUG	[6442450945] Frame script registered
+1540043905438	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540043906536	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540043907482	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+JavaScript warning: https://coding.imooc.com/static/lib/util/placeholder.js?v=201810191943, line 101: unreachable code after return statement
+JavaScript warning: https://coding.imooc.com/static/lib/backbone/backbone-1.0.0.min.js?v=201810191943, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540043909159	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+JavaScript error: resource://gre/modules/WebNavigationFrames.jsm, line 57: TypeError: window is null
+JavaScript warning: https://coding.imooc.com/static/lib/util/placeholder.js?v=201810191943, line 101: unreachable code after return statement
+console.error: "_refreshProcess of computed view cancelled"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 14624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Parent 14624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540044334031	Marionette	INFO	Stopped listening on port 62658
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540044358651	geckodriver	INFO	geckodriver 0.20.1
+1540044358677	geckodriver	INFO	Listening on 127.0.0.1:62917
+1540044361738	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KYB\\AppData\\Local\\Temp\\rust_mozprofile.itFEfzDX4tGU"
+1540044365874	Marionette	INFO	Listening on port 62925
+1540044366975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540044367026	Marionette	DEBUG	[6442450945] Frame script loaded
+1540044367030	Marionette	DEBUG	[6442450945] Frame script registered
+1540044370075	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540044370897	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540044371400	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+JavaScript warning: https://coding.imooc.com/static/lib/util/placeholder.js?v=201810191943, line 101: unreachable code after return statement
+JavaScript warning: https://coding.imooc.com/static/lib/backbone/backbone-1.0.0.min.js?v=201810191943, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540044372588	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+1540044397903	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540044402918	Marionette	INFO	Stopped listening on port 62925
+[Parent 14264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540044573611	geckodriver	INFO	geckodriver 0.20.1
+1540044573638	geckodriver	INFO	Listening on 127.0.0.1:63303
+1540044576695	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KYB\\AppData\\Local\\Temp\\rust_mozprofile.565BkPxfR7cu"
+1540044581140	Marionette	INFO	Listening on port 63312
+1540044581970	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540044582038	Marionette	DEBUG	[6442450945] Frame script loaded
+1540044582041	Marionette	DEBUG	[6442450945] Frame script registered
+1540044585065	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540044586040	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540044586674	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+JavaScript warning: https://coding.imooc.com/static/lib/util/placeholder.js?v=201810191943, line 101: unreachable code after return statement
+JavaScript warning: https://coding.imooc.com/static/lib/backbone/backbone-1.0.0.min.js?v=201810191943, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540044588414	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+[Parent 13092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Parent 13092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540044626958	Marionette	INFO	Stopped listening on port 63312
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540045014919	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KYB\\AppData\\Local\\Temp\\rust_mozprofile.tlg5hWOmd3fk"
+1540045020578	Marionette	INFO	Listening on port 63509
+1540045021010	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540045021052	Marionette	DEBUG	[6442450945] Frame script loaded
+1540045021054	Marionette	DEBUG	[6442450945] Frame script registered
+1540045024087	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540045025174	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540045025922	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+JavaScript warning: https://coding.imooc.com/static/lib/util/placeholder.js?v=201810191943, line 101: unreachable code after return statement
+JavaScript warning: https://coding.imooc.com/static/lib/backbone/backbone-1.0.0.min.js?v=201810191943, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540045027415	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+[Child 18344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi1540045062415	Marionette	INFO	Stopped listening on port 63509
+[GPU 7948, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540045196921	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KYB\\AppData\\Local\\Temp\\rust_mozprofile.GsTyxJvI7RiW"
+1540045201526	Marionette	INFO	Listening on port 63593
+1540045201861	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540045201920	Marionette	DEBUG	[6442450945] Frame script loaded
+1540045201922	Marionette	DEBUG	[6442450945] Frame script registered
+1540045204942	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540045207353	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540045210706	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+JavaScript warning: https://coding.imooc.com/static/lib/util/placeholder.js?v=201810191943, line 101: unreachable code after return statement
+JavaScript warning: https://coding.imooc.com/static/lib/backbone/backbone-1.0.0.min.js?v=201810191943, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540045212001	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://coding.imooc.com/class/286.html?mc_marking=60e5294c605a87b2af7257d06f70505e&mc_channel=syb7
+1540045237398	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540045242417	Marionette	INFO	Stopped listening on port 63593
+[Parent 15444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.[cc, line 346Child 2404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+[Child 1[Child 24[Parent 15444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540089740350	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KYB\\AppData\\Local\\Temp\\rust_mozprofile.89ar2A6Nm6gy"
+1540089748477	Marionette	INFO	Listening on port 49225
+1540089748796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540089748863	Marionette	DEBUG	[4294967297] Frame script loaded
+1540089748892	Marionette	DEBUG	[4294967297] Frame script registered
+1540089749026	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1540089750507	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1540089752667	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.imooc.com/
+1540089755016	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.imooc.com/
+JavaScript warning: https://www.imooc.com/static/component/base/placeholder/placeholder.js?v=201810121839, line 101: unreachable code after return statement
+JavaScript warning: https://www.imooc.com/static/lib/backbone/backbone-1.0.0.min.js?v=201810121839, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540089755418	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540089759203	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540089761431	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.imooc.com/
+1540089762173	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.imooc.com/
+1540089762173	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.imooc.com/
+1540089762782	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://coding.imooc.com/class/136.html?mc_marking=b587280c0c1c0e76c1092aa21406565a&mc_channel=syb6
+JavaScript warning: https://coding.imooc.com/static/lib/util/placeholder.js?v=201810191943, line 101: unreachable code after return statement
+JavaScript warning: https://coding.imooc.com/static/lib/backbone/backbone-1.0.0.min.js?v=201810191943, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540089763887	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://coding.imooc.com/class/136.html?mc_marking=b587280c0c1c0e76c1092aa21406565a&mc_channel=syb6
+1540089768175	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540089770184	Marionette	INFO	Stopped listening on port 49225
+[Parent 16204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16620, C[Parent 16204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541861831862	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KYB\\AppData\\Local\\Temp\\rust_mozprofile.L6yGMB69VOW9"
+1541861840833	Marionette	INFO	Listening on port 60453
+1541861840874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541861840943	Marionette	DEBUG	[4294967297] Frame script loaded
+1541861840948	Marionette	DEBUG	[4294967297] Frame script registered
+1541861841152	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1541861841375	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+JavaScript error: resource:///modules/NetErrorContent.jsm, line 449: TypeError: docShell.failedChannel is null
+[Parent 15088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1420, Chro[Parent 15088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541861866851	Marionette	INFO	Stopped listening on port 60453
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541861901297	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KYB\\AppData\\Local\\Temp\\rust_mozprofile.rQ8sLjKkVrVe"
+1541861905684	Marionette	INFO	Listening on port 60573
+1541861905742	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541861905791	Marionette	DEBUG	[6442450945] Frame script loaded
+1541861905798	Marionette	DEBUG	[6442450945] Frame script registered
+1541861905824	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1541861905837	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1541861905838	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1541861905839	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Parent 11928, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch1541861906372	Marionette	DEBUG	[8589934593] Frame script loaded
+1541861906374	Marionette	DEBUG	[8589934593] Frame script registered
+1541861906419	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1541861906433	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///C:/Users/KYB/Desktop/test.html
+1541861906480	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///C:/Users/KYB/Desktop/test.html
+1541861917883	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Parent 11928, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11928, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541861929570	Marionette	INFO	Stopped listening on port 60573
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541861971745	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KYB\\AppData\\Local\\Temp\\rust_mozprofile.TrhZDqc0kWFE"
+1541861976221	Marionette	INFO	Listening on port 60758
+1541861976701	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541861976756	Marionette	DEBUG	[6442450945] Frame script loaded
+1541861976763	Marionette	DEBUG	[6442450945] Frame script registered
+1541861976783	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1541861976792	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1541861976793	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1541861976794	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Parent 12632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/1541861977420	Marionette	DEBUG	[8589934593] Frame script loaded
+1541861977422	Marionette	DEBUG	[8589934593] Frame script registered
+1541861977484	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1541861977502	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///C:/Users/KYB/Desktop/test.html
+1541861977550	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///C:/Users/KYB/Desktop/test.html
+1541861988892	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Parent 12632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[Child 13248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_
+channel_win.cc, line 346
+[Chil[Parent 12632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15461541861995714	Marionette	INFO	Stopped listening on port 60758
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541901324302	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KYB\\AppData\\Local\\Temp\\rust_mozprofile.PciMTWawYVmL"
+1541901332052	Marionette	INFO	Listening on port 64359
+1541901332383	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541901332459	Marionette	DEBUG	[4294967297] Frame script loaded
+1541901332473	Marionette	DEBUG	[4294967297] Frame script registered
+1541901332604	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1541901332628	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1541901332629	Marionette	DEBUG	[4294967297] Received DOM event unload for about:blank
+1541901332631	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967297
+[Child 15892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1541901333497	Marionette	DEBUG	[8589934593] Frame script loaded
+1541901333789	Marionette	DEBUG	[8589934593] Frame script registered
+1541901333886	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1541901333918	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///C:/Users/KYB/Desktop/test.html
+1541901334078	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///C:/Users/KYB/Desktop/test.html
+1541901338696	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1541901342741	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1541901344548	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for file:///C:/Users/KYB/Desktop/test.html
+1541901344565	Marionette	DEBUG	[8589934593] Received DOM event pagehide for file:///C:/Users/KYB/Desktop/test.html
+1541901344566	Marionette	DEBUG	[8589934593] Received DOM event unload for file:///C:/Users/KYB/Desktop/test.html
+1541901344570	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///C:/Users/KYB/Desktop/test.html
+1541901344582	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///C:/Users/KYB/Desktop/test.html
+[Parent 11684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Parent 11684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541901500684	Marionette	INFO	Stopped listening on port 64359
+[GPU 13
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ about:blank
+1541901411112	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Child 2928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541901412129	Marionette	DEBUG	[8589934593] Frame script loaded
+1541901412131	Marionette	DEBUG	[8589934593] Frame script registered
+1541901412188	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1541901412205	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///C:/Users/KYB/Desktop/test.html
+1541901412304	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///C:/Users/KYB/Desktop/test.html
+1541901418747	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Parent 8012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4944, Chrome_Ch[Parent 8012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541901422258	Marionette	INFO	Stopped listening on port 64406
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
